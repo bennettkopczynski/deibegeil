@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://coojetequ.tranhtomau.net/sitemap.xml
